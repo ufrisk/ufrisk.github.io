@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"leechcore"},{"l":"leechcore.entry"},{"l":"vmm"},{"l":"vmm.entry"},{"l":"vmm.internal"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"leechcore"},{"l":"leechcore.entry"},{"l":"vmm"},{"l":"vmm.entry"}];updateSearchResults();
